@@ -1,0 +1,23 @@
+html {
+  background-color: aqua;
+}
+
+
+
+.iconsurf {
+  cursor:pointer;
+  display: flex;
+  align-self: center;
+}
+
+
+.custom-min-height {
+  min-height: 600px;
+}
+.jumbotron-hero {
+  background-image: url(./img/chris-osmond-q9GnP8x-yEs-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 400px;
+  padding: 0;
+}
